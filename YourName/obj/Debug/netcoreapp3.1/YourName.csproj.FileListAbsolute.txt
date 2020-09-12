@@ -1,0 +1,13 @@
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\bin\Debug\netcoreapp3.1\YourName.exe
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\bin\Debug\netcoreapp3.1\YourName.deps.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\bin\Debug\netcoreapp3.1\YourName.runtimeconfig.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\bin\Debug\netcoreapp3.1\YourName.runtimeconfig.dev.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\bin\Debug\netcoreapp3.1\YourName.dll
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\bin\Debug\netcoreapp3.1\YourName.pdb
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\obj\Debug\netcoreapp3.1\YourName.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\obj\Debug\netcoreapp3.1\YourName.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\obj\Debug\netcoreapp3.1\YourName.AssemblyInfo.cs
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\obj\Debug\netcoreapp3.1\YourName.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\obj\Debug\netcoreapp3.1\YourName.dll
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\obj\Debug\netcoreapp3.1\YourName.pdb
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\YourName\obj\Debug\netcoreapp3.1\YourName.genruntimeconfig.cache

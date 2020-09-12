@@ -1,0 +1,13 @@
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\obj\Debug\netcoreapp3.1\DatesComposite.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\obj\Debug\netcoreapp3.1\DatesComposite.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\obj\Debug\netcoreapp3.1\DatesComposite.AssemblyInfo.cs
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\obj\Debug\netcoreapp3.1\DatesComposite.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\bin\Debug\netcoreapp3.1\DatesComposite.exe
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\bin\Debug\netcoreapp3.1\DatesComposite.deps.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\bin\Debug\netcoreapp3.1\DatesComposite.runtimeconfig.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\bin\Debug\netcoreapp3.1\DatesComposite.runtimeconfig.dev.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\bin\Debug\netcoreapp3.1\DatesComposite.dll
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\bin\Debug\netcoreapp3.1\DatesComposite.pdb
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\obj\Debug\netcoreapp3.1\DatesComposite.dll
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\obj\Debug\netcoreapp3.1\DatesComposite.pdb
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\DatesComposite\obj\Debug\netcoreapp3.1\DatesComposite.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\bin\Debug\netcoreapp3.1\CourseGPAArray.exe
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\bin\Debug\netcoreapp3.1\CourseGPAArray.deps.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\bin\Debug\netcoreapp3.1\CourseGPAArray.runtimeconfig.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\bin\Debug\netcoreapp3.1\CourseGPAArray.runtimeconfig.dev.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\bin\Debug\netcoreapp3.1\CourseGPAArray.dll
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\bin\Debug\netcoreapp3.1\CourseGPAArray.pdb
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\obj\Debug\netcoreapp3.1\CourseGPAArray.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\obj\Debug\netcoreapp3.1\CourseGPAArray.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\obj\Debug\netcoreapp3.1\CourseGPAArray.AssemblyInfo.cs
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\obj\Debug\netcoreapp3.1\CourseGPAArray.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\obj\Debug\netcoreapp3.1\CourseGPAArray.dll
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\obj\Debug\netcoreapp3.1\CourseGPAArray.pdb
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPAArray\obj\Debug\netcoreapp3.1\CourseGPAArray.genruntimeconfig.cache

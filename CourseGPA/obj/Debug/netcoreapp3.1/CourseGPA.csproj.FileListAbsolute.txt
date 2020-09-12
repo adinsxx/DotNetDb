@@ -1,0 +1,13 @@
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\bin\Debug\netcoreapp3.1\CourseGPA.exe
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\bin\Debug\netcoreapp3.1\CourseGPA.deps.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\bin\Debug\netcoreapp3.1\CourseGPA.runtimeconfig.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\bin\Debug\netcoreapp3.1\CourseGPA.runtimeconfig.dev.json
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\bin\Debug\netcoreapp3.1\CourseGPA.dll
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\bin\Debug\netcoreapp3.1\CourseGPA.pdb
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\obj\Debug\netcoreapp3.1\CourseGPA.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\obj\Debug\netcoreapp3.1\CourseGPA.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\obj\Debug\netcoreapp3.1\CourseGPA.AssemblyInfo.cs
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\obj\Debug\netcoreapp3.1\CourseGPA.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\obj\Debug\netcoreapp3.1\CourseGPA.dll
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\obj\Debug\netcoreapp3.1\CourseGPA.pdb
+C:\Users\Connor\Documents\.NET PROGRAMMING\DotNetDb\CourseGPA\obj\Debug\netcoreapp3.1\CourseGPA.genruntimeconfig.cache
